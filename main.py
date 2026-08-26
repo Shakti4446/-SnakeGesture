@@ -4,7 +4,7 @@ from hand_tracking import HandDetector
 import snake_game as game
 
 pygame.init()
-
+# dector hand detector 
 detector=HandDetector()
 
 cap=cv2.VideoCapture(0,cv2.CAP_AVFOUNDATION)

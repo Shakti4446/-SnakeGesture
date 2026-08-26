@@ -41,5 +41,4 @@ class HandDetector:
                 cy=int(lm.y*h)
 
                 return (cx,cy)
-
-        return None
+   return none
